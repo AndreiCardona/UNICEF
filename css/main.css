@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* underline nav link */
+
+h1 h2 h3 h4 h5 a p{
+	font-family: 'Roboto', sans-serif;
+}
+.nav-item a{
+	border-bottom: 4px solid transparent;
+	transition: all .2s;
+}
+.nav-item:hover a{
+	border-bottom: 4px solid #FFFFFF;
+}
+.navbar	{
+	background-color: #1CABE2;
+}
+#carouselExampleCaptions h1{
+	background-color: #1CABE2;
+	font-weight: 700;
+	font-size: 5vw;
+	padding: 0.2vw;
+}
+#carouselExampleCaptions p{
+	background-color: #1CABE2;
+}
+h2{
+	font-size: 8vw;
+}
+.card-orange {
+	background-color: #EF6A12;
+}
+.card-orange h3{
+	font-size: 4vw;
+}
+.card-link {
+	color: #1CABE2;
+	font-weight: 600;
+}
+#side-orange{
+	background-color: #EF6A12;
+}
+#footer{
+	background-color: #1CABE2;
+	padding: 30px;
+}
+
+.card-orange a{
+	color: #EF6A12;
+	font-weight: 700;
+}
+.btn-donacion{
+	background-color: #EF6A12;
+	color: #FFFFFF;
+}
+.btn-donacion:hover{
+	background-color: green;
+	color: #FFFFFF;
+}
